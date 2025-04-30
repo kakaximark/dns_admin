@@ -1,0 +1,15 @@
+
+Flask
+mysql-connector-python
+PyJWT
+bcrypt
+requests
+marshmallow
+huaweicloudsdkobs
+huaweicloudsdkcore
+huaweicloudsdkcdn
+huaweicloudsdkdns
+cloudflare
+alibabacloud_cdn20180510==5.0.0
+dnspython
+python-whois
